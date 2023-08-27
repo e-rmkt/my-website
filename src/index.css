@@ -5,6 +5,17 @@
 }
 
 body {
-  margin: 0;
   font-family: var(--font);
+  margin: 0;
+}
+
+/* HEADINGS */
+
+h1 {
+  color: rgb(65, 17, 60);
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 18px;
+  margin: 25px 0 5px 0;
+  font-family: var(--heading-font);
 }
