@@ -12,10 +12,10 @@ body {
 /* HEADINGS */
 
 h1 {
-  color: rgb(65, 17, 60);
+  color: var(--color-heading);
+  font-family: var(--heading-font);
   font-size: 28px;
   font-weight: 500;
   line-height: 18px;
   margin: 25px 0 5px 0;
-  font-family: var(--heading-font);
 }

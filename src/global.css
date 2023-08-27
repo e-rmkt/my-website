@@ -3,6 +3,9 @@
 
 :root {
   /* COLORS */
+  --color-text: rgb(138, 43, 226);
+  --color-haze: rgb(234, 211, 255);
+  --color-heading: rgb(65, 17, 60);
   /* FONTS */
   --font: "Open Sans", sans-serif;
   --heading-font: "Nunito", sans-serif;

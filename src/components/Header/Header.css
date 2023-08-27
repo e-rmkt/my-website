@@ -14,9 +14,9 @@
 }
 
 .header-list__elements {
-  background-color: white;
+  background-color: transparent;
   border-style: none;
-  color: blueviolet;
+  color: var(--color-text);
   font-size: 12px;
   padding: 0;
   text-align: center;
@@ -24,7 +24,7 @@
 }
 
 .divider {
-  background-color: rgb(234, 211, 255);
+  background-color: var(--color-haze);
   border: none;
   height: 1px;
   margin: 0;
